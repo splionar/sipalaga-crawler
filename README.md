@@ -18,7 +18,7 @@ sudo apt-get install build-essential libpoppler-cpp-dev pkg-config python-dev
 ### Packages
 
 ```bash
-sudo pip3 install pdftotext dateparser tabula-py
+pip3 install pdftotext dateparser tabula-py
 ```
 ## Running the script
 Clone this repository and execute `sipalaga_crawler.py` using python 3.x. The downloaded .pdf will be contained in `pdf` folder and the conversion to .csv in `csv` folder. `logfile.log` records the print statement from `sipalaga_crawler.py`.

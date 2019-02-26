@@ -1,0 +1,1036 @@
+
+Wed Feb 20 00:15:01 +08 2019
+Processing files for url_papua.txt
+1/2 BRG_910111_01 downloaded and converted
+2/2 BRG_910111_02 downloaded and converted
+Processing files for url_kalsel.txt
+1/5 BRG_631104_01 downloaded and converted
+2/5 BRG16 downloaded and converted
+3/5 BRG_630708_01 downloaded and converted
+4/5 BRG_630805_02 downloaded and converted
+5/5 BRG_630805_01 downloaded and converted
+Processing files for url_riau.txt
+1/47 BRG_140701_02 downloaded and converted
+2/47 BRG_140701_01 downloaded and converted
+3/47 BRG_140702_03 downloaded and converted
+4/47 BRG_140702_02 downloaded and converted
+5/47 BRG_140702_01 downloaded and converted
+6/47 BRG_140702_04 downloaded and converted
+7/47 BRG_140310_01 downloaded and converted
+8/47 BRG_140310_02 downloaded and converted
+9/47 BRG_147205_02 downloaded and converted
+10/47 BRG_147205_01 downloaded and converted
+11/47 BRG9 downloaded and converted
+12/47 RIAU1 no data
+13/47 BRG_140713_01 downloaded and converted
+14/47 BRG_140313_01 downloaded and converted
+15/47 BRG_140301_01 downloaded and converted
+16/47 BRG_140302_01 downloaded and converted
+17/47 BRG_140301_02 downloaded and converted
+18/47 BRG_140302_02 downloaded and converted
+19/47 BRG10 downloaded and converted
+20/47 BRG_140312_01 downloaded and converted
+21/47 BRG_140613_01 downloaded and converted
+22/47 BRG_140613_02 downloaded and converted
+23/47 BRG_140810_01 downloaded and converted
+24/47 BRG_140809_01 downloaded and converted
+25/47 BRG_140801_01 downloaded and converted
+26/47 BRG_140802_03 downloaded and converted
+27/47 BRG_140802_02 downloaded and converted
+28/47 BRG_140802_01 downloaded and converted
+29/47 BRG8 downloaded and converted
+30/47 TINGGI2 downloaded and converted
+31/47 TINGGI1 downloaded and converted
+32/47 BRG7 downloaded and converted
+33/47 BRG_140508_03 downloaded and converted
+34/47 BRG_140508_01 downloaded and converted
+35/47 BRG_140508_02 downloaded and converted
+36/47 BRG_140509_01 downloaded and converted
+37/47 BRG_140509_03 downloaded and converted
+38/47 BRG_140509_02 downloaded and converted
+39/47 BRG_140416_01 downloaded and converted
+40/47 BRG_140415_01 downloaded and converted
+41/47 BRG_140412_02 downloaded and converted
+42/47 BRG_140412_01 downloaded and converted
+43/47 BRG_140411_01 downloaded and converted
+44/47 BRG_140411_02 downloaded and converted
+45/47 BRG_140405_02 downloaded and converted
+46/47 BRG_140405_01 downloaded and converted
+47/47 BRG_140402_01 downloaded and converted
+Processing files for url_jambi.txt
+1/13 BRG_150613_01 downloaded and converted
+2/13 BRG_150611_01 downloaded and converted
+3/13 BRG_150611_02 downloaded and converted
+4/13 BRG_150709_01 downloaded and converted
+5/13 JAMBI1 downloaded and converted
+6/13 BRG_150710_02 downloaded and converted
+7/13 BRG_150710_01 downloaded and converted
+8/13 BRG_150710_03 downloaded and converted
+9/13 BRG_150706_01 downloaded and converted
+10/13 BRG5 downloaded and converted
+11/13 BRG6 downloaded and converted
+12/13 BRG3 downloaded and converted
+13/13 BRG4 downloaded and converted
+Processing files for url_kalbar.txt
+1/12 BRG_610218_01 downloaded and converted
+2/12 BRG_610207_01 downloaded and converted
+3/12 BRG_610216_01 downloaded and converted
+4/12 BRG_610207_02 downloaded and converted
+5/12 BRG_611209_01 downloaded and converted
+6/12 BRG_611201_01 downloaded and converted
+7/12 BRG_611203_02 downloaded and converted
+8/12 BRG_611203_01 downloaded and converted
+9/12 KALBAR1 downloaded and converted
+10/12 BRG20 downloaded and converted
+11/12 BRG17 downloaded and converted
+12/12 BRG19 downloaded and converted
+Processing files for url_kalteng.txt
+1/38 BRG_621103_01 downloaded and converted
+2/38 BRG_621103_02 downloaded and converted
+3/38 BRG_621103_06 downloaded and converted
+4/38 BRG_621103_03 downloaded and converted
+5/38 BRG_621103_04 downloaded and converted
+6/38 BRG_621103_05 downloaded and converted
+7/38 BRG13 downloaded and converted
+8/38 BRG12 downloaded and converted
+9/38 BRG14 downloaded and converted
+10/38 BRG15 no data
+11/38 BRG_627104_03 downloaded and converted
+12/38 BRG_627104_02 downloaded and converted
+13/38 BRG_627104_01 downloaded and converted
+14/38 BRG_627104_05 downloaded and converted
+15/38 BRG_627104_04 downloaded and converted
+16/38 KALTENG1 downloaded and converted
+17/38 BRG_627104_06 downloaded and converted
+18/38 IJ1 no data
+19/38 BRG_621107_04 downloaded and converted
+20/38 BRG_621107_08 downloaded and converted
+21/38 BRG_621107_05 downloaded and converted
+22/38 BRG_621107_06 downloaded and converted
+23/38 BRG_621107_02 downloaded and converted
+24/38 IJ2 downloaded and converted
+25/38 BRG_621107_07 downloaded and converted
+26/38 BRG_621107_01 downloaded and converted
+27/38 BRG_621107_03 downloaded and converted
+28/38 BRG_621105_01 downloaded and converted
+29/38 BRG_621105_02 downloaded and converted
+30/38 BATOK2 downloaded and converted
+31/38 BRG11 downloaded and converted
+32/38 KECIL2 no data
+33/38 BRG_621105_03 downloaded and converted
+34/38 BATOK1 downloaded and converted
+35/38 KECIL1 downloaded and converted
+36/38 BRG_621108_01 downloaded and converted
+37/38 BRG_621101_01 downloaded and converted
+38/38 BRG_621101_02 downloaded and converted
+Processing files for url_sumsel.txt
+1/22 BRG2 downloaded and converted
+2/22 BRG_160609_01 downloaded and converted
+3/22 BRG1 no data
+4/22 BRG_160609_02 downloaded and converted
+5/22 MUBA1 no data
+6/22 MUBA2 downloaded and converted
+7/22 BRG_160611_01 downloaded and converted
+8/22 SELEH2 downloaded and converted
+9/22 LUMPUR2 downloaded and converted
+10/22 BRG_160214_03 downloaded and converted
+11/22 BRG_160214_02 downloaded and converted
+12/22 BRG_160214_01 downloaded and converted
+13/22 LUMPUR1 downloaded and converted
+14/22 BRG_160219_02 downloaded and converted
+15/22 OKI1 no data
+16/22 OKI2 downloaded and converted
+17/22 BRG_160224_01 downloaded and converted
+18/22 BRG_160205_01 downloaded and converted
+19/22 BRG_160205_02 downloaded and converted
+20/22 BRG_160224_03 downloaded and converted
+21/22 SELEH1 downloaded and converted
+22/22 BRG_160224_02 downloaded and converted
+
+Thu Feb 21 00:20:02 +08 2019
+Processing files for url_papua.txt
+1/2 BRG_910111_01 downloaded and converted
+2/2 BRG_910111_02 downloaded and converted
+Processing files for url_kalsel.txt
+1/5 BRG_631104_01 downloaded and converted
+2/5 BRG16 downloaded and converted
+3/5 BRG_630708_01 downloaded and converted
+4/5 BRG_630805_02 downloaded and converted
+5/5 BRG_630805_01 downloaded and converted
+Processing files for url_riau.txt
+1/47 BRG_140701_02 downloaded and converted
+2/47 BRG_140701_01 downloaded and converted
+3/47 BRG_140702_03 downloaded and converted
+4/47 BRG_140702_02 downloaded and converted
+5/47 BRG_140702_01 downloaded and converted
+6/47 BRG_140702_04 downloaded and converted
+7/47 BRG_140310_01 downloaded and converted
+8/47 BRG_140310_02 downloaded and converted
+9/47 BRG_147205_02 downloaded and converted
+10/47 BRG_147205_01 downloaded and converted
+11/47 BRG9 downloaded and converted
+12/47 RIAU1 no data
+13/47 BRG_140713_01 downloaded and converted
+14/47 BRG_140313_01 downloaded and converted
+15/47 BRG_140301_01 downloaded and converted
+16/47 BRG_140302_01 downloaded and converted
+17/47 BRG_140301_02 downloaded and converted
+18/47 BRG_140302_02 downloaded and converted
+19/47 BRG10 downloaded and converted
+20/47 BRG_140312_01 downloaded and converted
+21/47 BRG_140613_01 downloaded and converted
+22/47 BRG_140613_02 downloaded and converted
+23/47 BRG_140810_01 downloaded and converted
+24/47 BRG_140809_01 downloaded and converted
+25/47 BRG_140801_01 downloaded and converted
+26/47 BRG_140802_03 downloaded and converted
+27/47 BRG_140802_02 downloaded and converted
+28/47 BRG_140802_01 downloaded and converted
+29/47 BRG8 downloaded and converted
+30/47 TINGGI2 downloaded and converted
+31/47 TINGGI1 downloaded and converted
+32/47 BRG7 downloaded and converted
+33/47 BRG_140508_03 downloaded and converted
+34/47 BRG_140508_01 downloaded and converted
+35/47 BRG_140508_02 downloaded and converted
+36/47 BRG_140509_01 downloaded and converted
+37/47 BRG_140509_03 downloaded and converted
+38/47 BRG_140509_02 downloaded and converted
+39/47 BRG_140416_01 downloaded and converted
+40/47 BRG_140415_01 downloaded and converted
+41/47 BRG_140412_02 downloaded and converted
+42/47 BRG_140412_01 downloaded and converted
+43/47 BRG_140411_01 downloaded and converted
+44/47 BRG_140411_02 downloaded and converted
+45/47 BRG_140405_02 downloaded and converted
+46/47 BRG_140405_01 downloaded and converted
+47/47 BRG_140402_01 downloaded and converted
+Processing files for url_jambi.txt
+1/13 BRG_150613_01 downloaded and converted
+2/13 BRG_150611_01 downloaded and converted
+3/13 BRG_150611_02 downloaded and converted
+4/13 BRG_150709_01 downloaded and converted
+5/13 JAMBI1 downloaded and converted
+6/13 BRG_150710_02 downloaded and converted
+7/13 BRG_150710_01 downloaded and converted
+8/13 BRG_150710_03 downloaded and converted
+9/13 BRG_150706_01 downloaded and converted
+10/13 BRG5 downloaded and converted
+11/13 BRG6 downloaded and converted
+12/13 BRG3 downloaded and converted
+13/13 BRG4 downloaded and converted
+Processing files for url_kalbar.txt
+1/12 BRG_610218_01 downloaded and converted
+2/12 BRG_610207_01 downloaded and converted
+3/12 BRG_610216_01 downloaded and converted
+4/12 BRG_610207_02 downloaded and converted
+5/12 BRG_611209_01 downloaded and converted
+6/12 BRG_611201_01 downloaded and converted
+7/12 BRG_611203_02 downloaded and converted
+8/12 BRG_611203_01 downloaded and converted
+9/12 KALBAR1 downloaded and converted
+10/12 BRG20 downloaded and converted
+11/12 BRG17 downloaded and converted
+12/12 BRG19 downloaded and converted
+Processing files for url_kalteng.txt
+1/38 BRG_621103_01 downloaded and converted
+2/38 BRG_621103_02 downloaded and converted
+3/38 BRG_621103_06 downloaded and converted
+4/38 BRG_621103_03 downloaded and converted
+5/38 BRG_621103_04 downloaded and converted
+6/38 BRG_621103_05 downloaded and converted
+7/38 BRG13 downloaded and converted
+8/38 BRG12 downloaded and converted
+9/38 BRG14 downloaded and converted
+10/38 BRG15 no data
+11/38 BRG_627104_03 downloaded and converted
+12/38 BRG_627104_02 downloaded and converted
+13/38 BRG_627104_01 downloaded and converted
+14/38 BRG_627104_05 downloaded and converted
+15/38 BRG_627104_04 downloaded and converted
+16/38 KALTENG1 downloaded and converted
+17/38 BRG_627104_06 downloaded and converted
+18/38 IJ1 no data
+19/38 BRG_621107_04 downloaded and converted
+20/38 BRG_621107_08 downloaded and converted
+21/38 BRG_621107_05 downloaded and converted
+22/38 BRG_621107_06 downloaded and converted
+23/38 BRG_621107_02 downloaded and converted
+24/38 IJ2 downloaded and converted
+25/38 BRG_621107_07 downloaded and converted
+26/38 BRG_621107_01 downloaded and converted
+27/38 BRG_621107_03 downloaded and converted
+28/38 BRG_621105_01 downloaded and converted
+29/38 BRG_621105_02 downloaded and converted
+30/38 BATOK2 downloaded and converted
+31/38 BRG11 downloaded and converted
+32/38 KECIL2 no data
+33/38 BRG_621105_03 downloaded and converted
+34/38 BATOK1 downloaded and converted
+35/38 KECIL1 downloaded and converted
+36/38 BRG_621108_01 downloaded and converted
+37/38 BRG_621101_01 downloaded and converted
+38/38 BRG_621101_02 downloaded and converted
+Processing files for url_sumsel.txt
+1/22 BRG2 downloaded and converted
+2/22 BRG_160609_01 downloaded and converted
+3/22 BRG1 no data
+4/22 BRG_160609_02 downloaded and converted
+5/22 MUBA1 no data
+6/22 MUBA2 downloaded and converted
+7/22 BRG_160611_01 downloaded and converted
+8/22 SELEH2 downloaded and converted
+9/22 LUMPUR2 downloaded and converted
+10/22 BRG_160214_03 downloaded and converted
+11/22 BRG_160214_02 downloaded and converted
+12/22 BRG_160214_01 downloaded and converted
+13/22 LUMPUR1 downloaded and converted
+14/22 BRG_160219_02 downloaded and converted
+15/22 OKI1 no data
+16/22 OKI2 downloaded and converted
+17/22 BRG_160224_01 downloaded and converted
+18/22 BRG_160205_01 downloaded and converted
+19/22 BRG_160205_02 downloaded and converted
+20/22 BRG_160224_03 downloaded and converted
+21/22 SELEH1 downloaded and converted
+22/22 BRG_160224_02 downloaded and converted
+
+Fri Feb 22 00:20:01 +08 2019
+Processing files for url_papua.txt
+1/2 BRG_910111_01 downloaded and converted
+2/2 BRG_910111_02 downloaded and converted
+Processing files for url_kalsel.txt
+1/5 BRG_631104_01 downloaded and converted
+2/5 BRG16 downloaded and converted
+3/5 BRG_630708_01 downloaded and converted
+4/5 BRG_630805_02 downloaded and converted
+5/5 BRG_630805_01 downloaded and converted
+Processing files for url_riau.txt
+1/47 BRG_140701_02 downloaded and converted
+2/47 BRG_140701_01 downloaded and converted
+3/47 BRG_140702_03 downloaded and converted
+4/47 BRG_140702_02 downloaded and converted
+5/47 BRG_140702_01 downloaded and converted
+6/47 BRG_140702_04 downloaded and converted
+7/47 BRG_140310_01 downloaded and converted
+8/47 BRG_140310_02 downloaded and converted
+9/47 BRG_147205_02 downloaded and converted
+10/47 BRG_147205_01 downloaded and converted
+11/47 BRG9 downloaded and converted
+12/47 RIAU1 no data
+13/47 BRG_140713_01 downloaded and converted
+14/47 BRG_140313_01 downloaded and converted
+15/47 BRG_140301_01 downloaded and converted
+16/47 BRG_140302_01 downloaded and converted
+17/47 BRG_140301_02 downloaded and converted
+18/47 BRG_140302_02 downloaded and converted
+19/47 BRG10 downloaded and converted
+20/47 BRG_140312_01 downloaded and converted
+21/47 BRG_140613_01 downloaded and converted
+22/47 BRG_140613_02 downloaded and converted
+23/47 BRG_140810_01 downloaded and converted
+24/47 BRG_140809_01 downloaded and converted
+25/47 BRG_140801_01 downloaded and converted
+26/47 BRG_140802_03 downloaded and converted
+27/47 BRG_140802_02 downloaded and converted
+28/47 BRG_140802_01 downloaded and converted
+29/47 BRG8 downloaded and converted
+30/47 TINGGI2 downloaded and converted
+31/47 TINGGI1 downloaded and converted
+32/47 BRG7 downloaded and converted
+33/47 BRG_140508_03 downloaded and converted
+34/47 BRG_140508_01 downloaded and converted
+35/47 BRG_140508_02 downloaded and converted
+36/47 BRG_140509_01 downloaded and converted
+37/47 BRG_140509_03 downloaded and converted
+38/47 BRG_140509_02 downloaded and converted
+39/47 BRG_140416_01 downloaded and converted
+40/47 BRG_140415_01 downloaded and converted
+41/47 BRG_140412_02 downloaded and converted
+42/47 BRG_140412_01 downloaded and converted
+43/47 BRG_140411_01 downloaded and converted
+44/47 BRG_140411_02 downloaded and converted
+45/47 BRG_140405_02 downloaded and converted
+46/47 BRG_140405_01 downloaded and converted
+47/47 BRG_140402_01 downloaded and converted
+Processing files for url_jambi.txt
+1/13 BRG_150613_01 downloaded and converted
+2/13 BRG_150611_01 downloaded and converted
+3/13 BRG_150611_02 downloaded and converted
+4/13 BRG_150709_01 downloaded and converted
+5/13 JAMBI1 downloaded and converted
+6/13 BRG_150710_02 downloaded and converted
+7/13 BRG_150710_01 downloaded and converted
+8/13 BRG_150710_03 downloaded and converted
+9/13 BRG_150706_01 downloaded and converted
+10/13 BRG5 downloaded and converted
+11/13 BRG6 downloaded and converted
+12/13 BRG3 downloaded and converted
+13/13 BRG4 downloaded and converted
+Processing files for url_kalbar.txt
+1/12 BRG_610218_01 downloaded and converted
+2/12 BRG_610207_01 downloaded and converted
+3/12 BRG_610216_01 downloaded and converted
+4/12 BRG_610207_02 downloaded and converted
+5/12 BRG_611209_01 downloaded and converted
+6/12 BRG_611201_01 downloaded and converted
+7/12 BRG_611203_02 downloaded and converted
+8/12 BRG_611203_01 downloaded and converted
+9/12 KALBAR1 downloaded and converted
+10/12 BRG20 downloaded and converted
+11/12 BRG17 downloaded and converted
+12/12 BRG19 downloaded and converted
+Processing files for url_kalteng.txt
+1/38 BRG_621103_01 downloaded and converted
+2/38 BRG_621103_02 downloaded and converted
+3/38 BRG_621103_06 downloaded and converted
+4/38 BRG_621103_03 downloaded and converted
+5/38 BRG_621103_04 downloaded and converted
+6/38 BRG_621103_05 downloaded and converted
+7/38 BRG13 downloaded and converted
+8/38 BRG12 downloaded and converted
+9/38 BRG14 downloaded and converted
+10/38 BRG15 no data
+11/38 BRG_627104_03 downloaded and converted
+12/38 BRG_627104_02 downloaded and converted
+13/38 BRG_627104_01 downloaded and converted
+14/38 BRG_627104_05 downloaded and converted
+15/38 BRG_627104_04 downloaded and converted
+16/38 KALTENG1 downloaded and converted
+17/38 BRG_627104_06 downloaded and converted
+18/38 IJ1 no data
+19/38 BRG_621107_04 downloaded and converted
+20/38 BRG_621107_08 downloaded and converted
+21/38 BRG_621107_05 downloaded and converted
+22/38 BRG_621107_06 downloaded and converted
+23/38 BRG_621107_02 downloaded and converted
+24/38 IJ2 downloaded and converted
+25/38 BRG_621107_07 downloaded and converted
+26/38 BRG_621107_01 downloaded and converted
+27/38 BRG_621107_03 downloaded and converted
+28/38 BRG_621105_01 downloaded and converted
+29/38 BRG_621105_02 downloaded and converted
+30/38 BATOK2 downloaded and converted
+31/38 BRG11 downloaded and converted
+32/38 KECIL2 no data
+33/38 BRG_621105_03 downloaded and converted
+34/38 BATOK1 downloaded and converted
+35/38 KECIL1 downloaded and converted
+36/38 BRG_621108_01 downloaded and converted
+37/38 BRG_621101_01 downloaded and converted
+38/38 BRG_621101_02 downloaded and converted
+Processing files for url_sumsel.txt
+1/22 BRG2 downloaded and converted
+2/22 BRG_160609_01 downloaded and converted
+3/22 BRG1 no data
+4/22 BRG_160609_02 downloaded and converted
+5/22 MUBA1 no data
+6/22 MUBA2 downloaded and converted
+7/22 BRG_160611_01 downloaded and converted
+8/22 SELEH2 downloaded and converted
+9/22 LUMPUR2 downloaded and converted
+10/22 BRG_160214_03 downloaded and converted
+11/22 BRG_160214_02 downloaded and converted
+12/22 BRG_160214_01 downloaded and converted
+13/22 LUMPUR1 downloaded and converted
+14/22 BRG_160219_02 downloaded and converted
+15/22 OKI1 no data
+16/22 OKI2 downloaded and converted
+17/22 BRG_160224_01 downloaded and converted
+18/22 BRG_160205_01 downloaded and converted
+19/22 BRG_160205_02 downloaded and converted
+20/22 BRG_160224_03 downloaded and converted
+21/22 SELEH1 downloaded and converted
+22/22 BRG_160224_02 downloaded and converted
+
+Sat Feb 23 00:20:02 +08 2019
+Processing files for url_papua.txt
+1/2 BRG_910111_01 downloaded and converted
+2/2 BRG_910111_02 downloaded and converted
+Processing files for url_kalsel.txt
+1/5 BRG_631104_01 downloaded and converted
+2/5 BRG16 downloaded and converted
+3/5 BRG_630708_01 downloaded and converted
+4/5 BRG_630805_02 downloaded and converted
+5/5 BRG_630805_01 downloaded and converted
+Processing files for url_riau.txt
+1/47 BRG_140701_02 downloaded and converted
+2/47 BRG_140701_01 downloaded and converted
+3/47 BRG_140702_03 downloaded and converted
+4/47 BRG_140702_02 downloaded and converted
+5/47 BRG_140702_01 downloaded and converted
+6/47 BRG_140702_04 downloaded and converted
+7/47 BRG_140310_01 downloaded and converted
+8/47 BRG_140310_02 downloaded and converted
+9/47 BRG_147205_02 downloaded and converted
+10/47 BRG_147205_01 downloaded and converted
+11/47 BRG9 downloaded and converted
+12/47 RIAU1 no data
+13/47 BRG_140713_01 downloaded and converted
+14/47 BRG_140313_01 downloaded and converted
+15/47 BRG_140301_01 downloaded and converted
+16/47 BRG_140302_01 downloaded and converted
+17/47 BRG_140301_02 downloaded and converted
+18/47 BRG_140302_02 downloaded and converted
+19/47 BRG10 downloaded and converted
+20/47 BRG_140312_01 downloaded and converted
+21/47 BRG_140613_01 downloaded and converted
+22/47 BRG_140613_02 downloaded and converted
+23/47 BRG_140810_01 downloaded and converted
+24/47 BRG_140809_01 downloaded and converted
+25/47 BRG_140801_01 downloaded and converted
+26/47 BRG_140802_03 downloaded and converted
+27/47 BRG_140802_02 downloaded and converted
+28/47 BRG_140802_01 downloaded and converted
+29/47 BRG8 downloaded and converted
+30/47 TINGGI2 downloaded and converted
+31/47 TINGGI1 downloaded and converted
+32/47 BRG7 downloaded and converted
+33/47 BRG_140508_03 downloaded and converted
+34/47 BRG_140508_01 downloaded and converted
+35/47 BRG_140508_02 downloaded and converted
+36/47 BRG_140509_01 downloaded and converted
+37/47 BRG_140509_03 downloaded and converted
+38/47 BRG_140509_02 downloaded and converted
+39/47 BRG_140416_01 downloaded and converted
+40/47 BRG_140415_01 downloaded and converted
+41/47 BRG_140412_02 downloaded and converted
+42/47 BRG_140412_01 downloaded and converted
+43/47 BRG_140411_01 downloaded and converted
+44/47 BRG_140411_02 downloaded and converted
+45/47 BRG_140405_02 downloaded and converted
+46/47 BRG_140405_01 downloaded and converted
+47/47 BRG_140402_01 downloaded and converted
+Processing files for url_jambi.txt
+1/13 BRG_150613_01 downloaded and converted
+2/13 BRG_150611_01 downloaded and converted
+3/13 BRG_150611_02 downloaded and converted
+4/13 BRG_150709_01 downloaded and converted
+5/13 JAMBI1 downloaded and converted
+6/13 BRG_150710_02 downloaded and converted
+7/13 BRG_150710_01 downloaded and converted
+8/13 BRG_150710_03 downloaded and converted
+9/13 BRG_150706_01 downloaded and converted
+10/13 BRG5 downloaded and converted
+11/13 BRG6 downloaded and converted
+12/13 BRG3 downloaded and converted
+13/13 BRG4 downloaded and converted
+Processing files for url_kalbar.txt
+1/12 BRG_610218_01 downloaded and converted
+2/12 BRG_610207_01 downloaded and converted
+3/12 BRG_610216_01 downloaded and converted
+4/12 BRG_610207_02 downloaded and converted
+5/12 BRG_611209_01 downloaded and converted
+6/12 BRG_611201_01 downloaded and converted
+7/12 BRG_611203_02 downloaded and converted
+8/12 BRG_611203_01 downloaded and converted
+9/12 KALBAR1 downloaded and converted
+10/12 BRG20 downloaded and converted
+11/12 BRG17 downloaded and converted
+12/12 BRG19 downloaded and converted
+Processing files for url_kalteng.txt
+1/38 BRG_621103_01 downloaded and converted
+2/38 BRG_621103_02 downloaded and converted
+3/38 BRG_621103_06 downloaded and converted
+4/38 BRG_621103_03 downloaded and converted
+5/38 BRG_621103_04 downloaded and converted
+6/38 BRG_621103_05 downloaded and converted
+7/38 BRG13 downloaded and converted
+8/38 BRG12 downloaded and converted
+9/38 BRG14 downloaded and converted
+10/38 BRG15 no data
+11/38 BRG_627104_03 downloaded and converted
+12/38 BRG_627104_02 downloaded and converted
+13/38 BRG_627104_01 downloaded and converted
+14/38 BRG_627104_05 downloaded and converted
+15/38 BRG_627104_04 downloaded and converted
+16/38 KALTENG1 downloaded and converted
+17/38 BRG_627104_06 downloaded and converted
+18/38 IJ1 no data
+19/38 BRG_621107_04 downloaded and converted
+20/38 BRG_621107_08 downloaded and converted
+21/38 BRG_621107_05 downloaded and converted
+22/38 BRG_621107_06 downloaded and converted
+23/38 BRG_621107_02 downloaded and converted
+24/38 IJ2 downloaded and converted
+25/38 BRG_621107_07 downloaded and converted
+26/38 BRG_621107_01 downloaded and converted
+27/38 BRG_621107_03 downloaded and converted
+28/38 BRG_621105_01 downloaded and converted
+29/38 BRG_621105_02 downloaded and converted
+30/38 BATOK2 downloaded and converted
+31/38 BRG11 downloaded and converted
+32/38 KECIL2 no data
+33/38 BRG_621105_03 downloaded and converted
+34/38 BATOK1 downloaded and converted
+35/38 KECIL1 downloaded and converted
+36/38 BRG_621108_01 downloaded and converted
+37/38 BRG_621101_01 downloaded and converted
+38/38 BRG_621101_02 downloaded and converted
+Processing files for url_sumsel.txt
+1/22 BRG2 downloaded and converted
+2/22 BRG_160609_01 downloaded and converted
+3/22 BRG1 no data
+4/22 BRG_160609_02 downloaded and converted
+5/22 MUBA1 no data
+6/22 MUBA2 downloaded and converted
+7/22 BRG_160611_01 downloaded and converted
+8/22 SELEH2 downloaded and converted
+9/22 LUMPUR2 downloaded and converted
+10/22 BRG_160214_03 downloaded and converted
+11/22 BRG_160214_02 downloaded and converted
+12/22 BRG_160214_01 downloaded and converted
+13/22 LUMPUR1 downloaded and converted
+14/22 BRG_160219_02 downloaded and converted
+15/22 OKI1 no data
+16/22 OKI2 downloaded and converted
+17/22 BRG_160224_01 downloaded and converted
+18/22 BRG_160205_01 downloaded and converted
+19/22 BRG_160205_02 downloaded and converted
+20/22 BRG_160224_03 downloaded and converted
+21/22 SELEH1 downloaded and converted
+22/22 BRG_160224_02 downloaded and converted
+
+Sun Feb 24 00:20:02 +08 2019
+Processing files for url_papua.txt
+1/2 BRG_910111_01 downloaded and converted
+2/2 BRG_910111_02 downloaded and converted
+Processing files for url_kalsel.txt
+1/5 BRG_631104_01 downloaded and converted
+2/5 BRG16 downloaded and converted
+3/5 BRG_630708_01 downloaded and converted
+4/5 BRG_630805_02 downloaded and converted
+5/5 BRG_630805_01 downloaded and converted
+Processing files for url_riau.txt
+1/47 BRG_140701_02 downloaded and converted
+2/47 BRG_140701_01 downloaded and converted
+3/47 BRG_140702_03 downloaded and converted
+4/47 BRG_140702_02 downloaded and converted
+5/47 BRG_140702_01 downloaded and converted
+6/47 BRG_140702_04 downloaded and converted
+7/47 BRG_140310_01 downloaded and converted
+8/47 BRG_140310_02 downloaded and converted
+9/47 BRG_147205_02 downloaded and converted
+10/47 BRG_147205_01 downloaded and converted
+11/47 BRG9 downloaded and converted
+12/47 RIAU1 no data
+13/47 BRG_140713_01 downloaded and converted
+14/47 BRG_140313_01 downloaded and converted
+15/47 BRG_140301_01 downloaded and converted
+16/47 BRG_140302_01 downloaded and converted
+17/47 BRG_140301_02 downloaded and converted
+18/47 BRG_140302_02 downloaded and converted
+19/47 BRG10 downloaded and converted
+20/47 BRG_140312_01 downloaded and converted
+21/47 BRG_140613_01 downloaded and converted
+22/47 BRG_140613_02 downloaded and converted
+23/47 BRG_140810_01 downloaded and converted
+24/47 BRG_140809_01 downloaded and converted
+25/47 BRG_140801_01 downloaded and converted
+26/47 BRG_140802_03 downloaded and converted
+27/47 BRG_140802_02 downloaded and converted
+28/47 BRG_140802_01 downloaded and converted
+29/47 BRG8 downloaded and converted
+30/47 TINGGI2 downloaded and converted
+31/47 TINGGI1 downloaded and converted
+32/47 BRG7 downloaded and converted
+33/47 BRG_140508_03 downloaded and converted
+34/47 BRG_140508_01 downloaded and converted
+35/47 BRG_140508_02 downloaded and converted
+36/47 BRG_140509_01 downloaded and converted
+37/47 BRG_140509_03 downloaded and converted
+38/47 BRG_140509_02 downloaded and converted
+39/47 BRG_140416_01 downloaded and converted
+40/47 BRG_140415_01 downloaded and converted
+41/47 BRG_140412_02 downloaded and converted
+42/47 BRG_140412_01 downloaded and converted
+43/47 BRG_140411_01 downloaded and converted
+44/47 BRG_140411_02 downloaded and converted
+45/47 BRG_140405_02 downloaded and converted
+46/47 BRG_140405_01 downloaded and converted
+47/47 BRG_140402_01 downloaded and converted
+Processing files for url_jambi.txt
+1/13 BRG_150613_01 downloaded and converted
+2/13 BRG_150611_01 downloaded and converted
+3/13 BRG_150611_02 downloaded and converted
+4/13 BRG_150709_01 downloaded and converted
+5/13 JAMBI1 downloaded and converted
+6/13 BRG_150710_02 downloaded and converted
+7/13 BRG_150710_01 downloaded and converted
+8/13 BRG_150710_03 downloaded and converted
+9/13 BRG_150706_01 downloaded and converted
+10/13 BRG5 downloaded and converted
+11/13 BRG6 downloaded and converted
+12/13 BRG3 downloaded and converted
+13/13 BRG4 downloaded and converted
+Processing files for url_kalbar.txt
+1/12 BRG_610218_01 downloaded and converted
+2/12 BRG_610207_01 downloaded and converted
+3/12 BRG_610216_01 downloaded and converted
+4/12 BRG_610207_02 downloaded and converted
+5/12 BRG_611209_01 downloaded and converted
+6/12 BRG_611201_01 downloaded and converted
+7/12 BRG_611203_02 downloaded and converted
+8/12 BRG_611203_01 downloaded and converted
+9/12 KALBAR1 downloaded and converted
+10/12 BRG20 downloaded and converted
+11/12 BRG17 downloaded and converted
+12/12 BRG19 downloaded and converted
+Processing files for url_kalteng.txt
+1/38 BRG_621103_01 downloaded and converted
+2/38 BRG_621103_02 downloaded and converted
+3/38 BRG_621103_06 downloaded and converted
+4/38 BRG_621103_03 downloaded and converted
+5/38 BRG_621103_04 downloaded and converted
+6/38 BRG_621103_05 downloaded and converted
+7/38 BRG13 downloaded and converted
+8/38 BRG12 downloaded and converted
+9/38 BRG14 downloaded and converted
+10/38 BRG15 no data
+11/38 BRG_627104_03 downloaded and converted
+12/38 BRG_627104_02 downloaded and converted
+13/38 BRG_627104_01 downloaded and converted
+14/38 BRG_627104_05 downloaded and converted
+15/38 BRG_627104_04 downloaded and converted
+16/38 KALTENG1 downloaded and converted
+17/38 BRG_627104_06 downloaded and converted
+18/38 IJ1 no data
+19/38 BRG_621107_04 downloaded and converted
+20/38 BRG_621107_08 downloaded and converted
+21/38 BRG_621107_05 downloaded and converted
+22/38 BRG_621107_06 downloaded and converted
+23/38 BRG_621107_02 downloaded and converted
+24/38 IJ2 downloaded and converted
+25/38 BRG_621107_07 downloaded and converted
+26/38 BRG_621107_01 downloaded and converted
+27/38 BRG_621107_03 downloaded and converted
+28/38 BRG_621105_01 downloaded and converted
+29/38 BRG_621105_02 downloaded and converted
+30/38 BATOK2 downloaded and converted
+31/38 BRG11 downloaded and converted
+32/38 KECIL2 no data
+33/38 BRG_621105_03 downloaded and converted
+34/38 BATOK1 downloaded and converted
+35/38 KECIL1 downloaded and converted
+36/38 BRG_621108_01 downloaded and converted
+37/38 BRG_621101_01 downloaded and converted
+38/38 BRG_621101_02 downloaded and converted
+Processing files for url_sumsel.txt
+1/22 BRG2 downloaded and converted
+2/22 BRG_160609_01 downloaded and converted
+3/22 BRG1 no data
+4/22 BRG_160609_02 downloaded and converted
+5/22 MUBA1 no data
+6/22 MUBA2 downloaded and converted
+7/22 BRG_160611_01 downloaded and converted
+8/22 SELEH2 downloaded and converted
+9/22 LUMPUR2 downloaded and converted
+10/22 BRG_160214_03 downloaded and converted
+11/22 BRG_160214_02 downloaded and converted
+12/22 BRG_160214_01 downloaded and converted
+13/22 LUMPUR1 downloaded and converted
+14/22 BRG_160219_02 downloaded and converted
+15/22 OKI1 no data
+16/22 OKI2 downloaded and converted
+17/22 BRG_160224_01 downloaded and converted
+18/22 BRG_160205_01 downloaded and converted
+19/22 BRG_160205_02 downloaded and converted
+20/22 BRG_160224_03 downloaded and converted
+21/22 SELEH1 downloaded and converted
+22/22 BRG_160224_02 downloaded and converted
+
+Mon Feb 25 00:20:01 +08 2019
+Processing files for url_papua.txt
+1/2 BRG_910111_01 downloaded and converted
+2/2 BRG_910111_02 downloaded and converted
+Processing files for url_kalsel.txt
+1/5 BRG_631104_01 downloaded and converted
+2/5 BRG16 downloaded and converted
+3/5 BRG_630708_01 downloaded and converted
+4/5 BRG_630805_02 downloaded and converted
+5/5 BRG_630805_01 downloaded and converted
+Processing files for url_riau.txt
+1/47 BRG_140701_02 downloaded and converted
+2/47 BRG_140701_01 downloaded and converted
+3/47 BRG_140702_03 downloaded and converted
+4/47 BRG_140702_02 downloaded and converted
+5/47 BRG_140702_01 downloaded and converted
+6/47 BRG_140702_04 downloaded and converted
+7/47 BRG_140310_01 downloaded and converted
+8/47 BRG_140310_02 downloaded and converted
+9/47 BRG_147205_02 downloaded and converted
+10/47 BRG_147205_01 downloaded and converted
+11/47 BRG9 downloaded and converted
+12/47 RIAU1 no data
+13/47 BRG_140713_01 downloaded and converted
+14/47 BRG_140313_01 downloaded and converted
+15/47 BRG_140301_01 downloaded and converted
+16/47 BRG_140302_01 downloaded and converted
+17/47 BRG_140301_02 downloaded and converted
+18/47 BRG_140302_02 downloaded and converted
+19/47 BRG10 downloaded and converted
+20/47 BRG_140312_01 downloaded and converted
+21/47 BRG_140613_01 downloaded and converted
+22/47 BRG_140613_02 downloaded and converted
+23/47 BRG_140810_01 downloaded and converted
+24/47 BRG_140809_01 downloaded and converted
+25/47 BRG_140801_01 downloaded and converted
+26/47 BRG_140802_03 downloaded and converted
+27/47 BRG_140802_02 downloaded and converted
+28/47 BRG_140802_01 downloaded and converted
+29/47 BRG8 downloaded and converted
+30/47 TINGGI2 downloaded and converted
+31/47 TINGGI1 downloaded and converted
+32/47 BRG7 downloaded and converted
+33/47 BRG_140508_03 downloaded and converted
+34/47 BRG_140508_01 downloaded and converted
+35/47 BRG_140508_02 downloaded and converted
+36/47 BRG_140509_01 downloaded and converted
+37/47 BRG_140509_03 downloaded and converted
+38/47 BRG_140509_02 downloaded and converted
+39/47 BRG_140416_01 downloaded and converted
+40/47 BRG_140415_01 downloaded and converted
+41/47 BRG_140412_02 downloaded and converted
+42/47 BRG_140412_01 downloaded and converted
+43/47 BRG_140411_01 downloaded and converted
+44/47 BRG_140411_02 downloaded and converted
+45/47 BRG_140405_02 downloaded and converted
+46/47 BRG_140405_01 downloaded and converted
+47/47 BRG_140402_01 downloaded and converted
+Processing files for url_jambi.txt
+1/13 BRG_150613_01 downloaded and converted
+2/13 BRG_150611_01 downloaded and converted
+3/13 BRG_150611_02 downloaded and converted
+4/13 BRG_150709_01 downloaded and converted
+5/13 JAMBI1 downloaded and converted
+6/13 BRG_150710_02 downloaded and converted
+7/13 BRG_150710_01 downloaded and converted
+8/13 BRG_150710_03 downloaded and converted
+9/13 BRG_150706_01 downloaded and converted
+10/13 BRG5 downloaded and converted
+11/13 BRG6 downloaded and converted
+12/13 BRG3 downloaded and converted
+13/13 BRG4 downloaded and converted
+Processing files for url_kalbar.txt
+1/12 BRG_610218_01 downloaded and converted
+2/12 BRG_610207_01 downloaded and converted
+3/12 BRG_610216_01 downloaded and converted
+4/12 BRG_610207_02 downloaded and converted
+5/12 BRG_611209_01 downloaded and converted
+6/12 BRG_611201_01 downloaded and converted
+7/12 BRG_611203_02 downloaded and converted
+8/12 BRG_611203_01 downloaded and converted
+9/12 KALBAR1 downloaded and converted
+10/12 BRG20 downloaded and converted
+11/12 BRG17 downloaded and converted
+12/12 BRG19 downloaded and converted
+Processing files for url_kalteng.txt
+1/38 BRG_621103_01 downloaded and converted
+2/38 BRG_621103_02 downloaded and converted
+3/38 BRG_621103_06 downloaded and converted
+4/38 BRG_621103_03 downloaded and converted
+5/38 BRG_621103_04 downloaded and converted
+6/38 BRG_621103_05 downloaded and converted
+7/38 BRG13 downloaded and converted
+8/38 BRG12 downloaded and converted
+9/38 BRG14 downloaded and converted
+10/38 BRG15 no data
+11/38 BRG_627104_03 downloaded and converted
+12/38 BRG_627104_02 downloaded and converted
+13/38 BRG_627104_01 downloaded and converted
+14/38 BRG_627104_05 downloaded and converted
+15/38 BRG_627104_04 downloaded and converted
+16/38 KALTENG1 downloaded and converted
+17/38 BRG_627104_06 downloaded and converted
+18/38 IJ1 no data
+19/38 BRG_621107_04 downloaded and converted
+20/38 BRG_621107_08 downloaded and converted
+21/38 BRG_621107_05 downloaded and converted
+22/38 BRG_621107_06 downloaded and converted
+23/38 BRG_621107_02 downloaded and converted
+24/38 IJ2 downloaded and converted
+25/38 BRG_621107_07 downloaded and converted
+26/38 BRG_621107_01 downloaded and converted
+27/38 BRG_621107_03 downloaded and converted
+28/38 BRG_621105_01 downloaded and converted
+29/38 BRG_621105_02 downloaded and converted
+30/38 BATOK2 downloaded and converted
+31/38 BRG11 downloaded and converted
+32/38 KECIL2 no data
+33/38 BRG_621105_03 downloaded and converted
+34/38 BATOK1 downloaded and converted
+35/38 KECIL1 downloaded and converted
+36/38 BRG_621108_01 downloaded and converted
+37/38 BRG_621101_01 downloaded and converted
+38/38 BRG_621101_02 downloaded and converted
+Processing files for url_sumsel.txt
+1/22 BRG2 downloaded and converted
+2/22 BRG_160609_01 downloaded and converted
+3/22 BRG1 no data
+4/22 BRG_160609_02 downloaded and converted
+5/22 MUBA1 no data
+6/22 MUBA2 downloaded and converted
+7/22 BRG_160611_01 downloaded and converted
+8/22 SELEH2 downloaded and converted
+9/22 LUMPUR2 downloaded and converted
+10/22 BRG_160214_03 downloaded and converted
+11/22 BRG_160214_02 downloaded and converted
+12/22 BRG_160214_01 downloaded and converted
+13/22 LUMPUR1 downloaded and converted
+14/22 BRG_160219_02 downloaded and converted
+15/22 OKI1 no data
+16/22 OKI2 downloaded and converted
+17/22 BRG_160224_01 downloaded and converted
+18/22 BRG_160205_01 downloaded and converted
+19/22 BRG_160205_02 downloaded and converted
+20/22 BRG_160224_03 downloaded and converted
+21/22 SELEH1 downloaded and converted
+22/22 BRG_160224_02 downloaded and converted
+
+Tue Feb 26 00:20:01 +08 2019
+Processing files for url_papua.txt
+1/2 BRG_910111_01 downloaded and converted
+2/2 BRG_910111_02 downloaded and converted
+Processing files for url_kalsel.txt
+1/5 BRG_631104_01 downloaded and converted
+2/5 BRG16 downloaded and converted
+3/5 BRG_630708_01 downloaded and converted
+4/5 BRG_630805_02 downloaded and converted
+5/5 BRG_630805_01 downloaded and converted
+Processing files for url_riau.txt
+1/47 BRG_140701_02 downloaded and converted
+2/47 BRG_140701_01 downloaded and converted
+3/47 BRG_140702_03 downloaded and converted
+4/47 BRG_140702_02 downloaded and converted
+5/47 BRG_140702_01 downloaded and converted
+6/47 BRG_140702_04 downloaded and converted
+7/47 BRG_140310_01 downloaded and converted
+8/47 BRG_140310_02 downloaded and converted
+9/47 BRG_147205_02 downloaded and converted
+10/47 BRG_147205_01 downloaded and converted
+11/47 BRG9 downloaded and converted
+12/47 RIAU1 no data
+13/47 BRG_140713_01 downloaded and converted
+14/47 BRG_140313_01 downloaded and converted
+15/47 BRG_140301_01 downloaded and converted
+16/47 BRG_140302_01 downloaded and converted
+17/47 BRG_140301_02 downloaded and converted
+18/47 BRG_140302_02 downloaded and converted
+19/47 BRG10 downloaded and converted
+20/47 BRG_140312_01 downloaded and converted
+21/47 BRG_140613_01 downloaded and converted
+22/47 BRG_140613_02 downloaded and converted
+23/47 BRG_140810_01 downloaded and converted
+24/47 BRG_140809_01 downloaded and converted
+25/47 BRG_140801_01 downloaded and converted
+26/47 BRG_140802_03 downloaded and converted
+27/47 BRG_140802_02 downloaded and converted
+28/47 BRG_140802_01 downloaded and converted
+29/47 BRG8 downloaded and converted
+30/47 TINGGI2 downloaded and converted
+31/47 TINGGI1 downloaded and converted
+32/47 BRG7 downloaded and converted
+33/47 BRG_140508_03 downloaded and converted
+34/47 BRG_140508_01 downloaded and converted
+35/47 BRG_140508_02 downloaded and converted
+36/47 BRG_140509_01 downloaded and converted
+37/47 BRG_140509_03 downloaded and converted
+38/47 BRG_140509_02 downloaded and converted
+39/47 BRG_140416_01 downloaded and converted
+40/47 BRG_140415_01 downloaded and converted
+41/47 BRG_140412_02 downloaded and converted
+42/47 BRG_140412_01 downloaded and converted
+43/47 BRG_140411_01 downloaded and converted
+44/47 BRG_140411_02 downloaded and converted
+45/47 BRG_140405_02 downloaded and converted
+46/47 BRG_140405_01 downloaded and converted
+47/47 BRG_140402_01 downloaded and converted
+Processing files for url_jambi.txt
+1/13 BRG_150613_01 downloaded and converted
+2/13 BRG_150611_01 downloaded and converted
+3/13 BRG_150611_02 downloaded and converted
+4/13 BRG_150709_01 downloaded and converted
+5/13 JAMBI1 downloaded and converted
+6/13 BRG_150710_02 downloaded and converted
+7/13 BRG_150710_01 downloaded and converted
+8/13 BRG_150710_03 downloaded and converted
+9/13 BRG_150706_01 downloaded and converted
+10/13 BRG5 downloaded and converted
+11/13 BRG6 downloaded and converted
+12/13 BRG3 downloaded and converted
+13/13 BRG4 downloaded and converted
+Processing files for url_kalbar.txt
+1/12 BRG_610218_01 downloaded and converted
+2/12 BRG_610207_01 downloaded and converted
+3/12 BRG_610216_01 downloaded and converted
+4/12 BRG_610207_02 downloaded and converted
+5/12 BRG_611209_01 downloaded and converted
+6/12 BRG_611201_01 downloaded and converted
+7/12 BRG_611203_02 downloaded and converted
+8/12 BRG_611203_01 downloaded and converted
+9/12 KALBAR1 downloaded and converted
+10/12 BRG20 downloaded and converted
+11/12 BRG17 downloaded and converted
+12/12 BRG19 downloaded and converted
+Processing files for url_kalteng.txt
+1/38 BRG_621103_01 downloaded and converted
+2/38 BRG_621103_02 downloaded and converted
+3/38 BRG_621103_06 downloaded and converted
+4/38 BRG_621103_03 downloaded and converted
+5/38 BRG_621103_04 downloaded and converted
+6/38 BRG_621103_05 downloaded and converted
+7/38 BRG13 downloaded and converted
+8/38 BRG12 downloaded and converted
+9/38 BRG14 downloaded and converted
+10/38 BRG15 no data
+11/38 BRG_627104_03 downloaded and converted
+12/38 BRG_627104_02 downloaded and converted
+13/38 BRG_627104_01 downloaded and converted
+14/38 BRG_627104_05 downloaded and converted
+15/38 BRG_627104_04 downloaded and converted
+16/38 KALTENG1 downloaded and converted
+17/38 BRG_627104_06 downloaded and converted
+18/38 IJ1 no data
+19/38 BRG_621107_04 downloaded and converted
+20/38 BRG_621107_08 downloaded and converted
+21/38 BRG_621107_05 downloaded and converted
+22/38 BRG_621107_06 downloaded and converted
+23/38 BRG_621107_02 downloaded and converted
+24/38 IJ2 downloaded and converted
+25/38 BRG_621107_07 downloaded and converted
+26/38 BRG_621107_01 downloaded and converted
+27/38 BRG_621107_03 downloaded and converted
+28/38 BRG_621105_01 downloaded and converted
+29/38 BRG_621105_02 downloaded and converted
+30/38 BATOK2 downloaded and converted
+31/38 BRG11 downloaded and converted
+32/38 KECIL2 no data
+33/38 BRG_621105_03 downloaded and converted
+34/38 BATOK1 downloaded and converted
+35/38 KECIL1 downloaded and converted
+36/38 BRG_621108_01 downloaded and converted
+37/38 BRG_621101_01 downloaded and converted
+38/38 BRG_621101_02 downloaded and converted
+Processing files for url_sumsel.txt
+1/22 BRG2 downloaded and converted
+2/22 BRG_160609_01 downloaded and converted
+3/22 BRG1 no data
+4/22 BRG_160609_02 downloaded and converted
+5/22 MUBA1 no data
+6/22 MUBA2 downloaded and converted
+7/22 BRG_160611_01 downloaded and converted
+8/22 SELEH2 downloaded and converted
+9/22 LUMPUR2 downloaded and converted
+10/22 BRG_160214_03 downloaded and converted
+11/22 BRG_160214_02 downloaded and converted
+12/22 BRG_160214_01 downloaded and converted
+13/22 LUMPUR1 downloaded and converted
+14/22 BRG_160219_02 downloaded and converted
+15/22 OKI1 no data
+16/22 OKI2 downloaded and converted
+17/22 BRG_160224_01 downloaded and converted
+18/22 BRG_160205_01 downloaded and converted
+19/22 BRG_160205_02 downloaded and converted
+20/22 BRG_160224_03 downloaded and converted
+21/22 SELEH1 downloaded and converted
+22/22 BRG_160224_02 downloaded and converted

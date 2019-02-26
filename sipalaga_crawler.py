@@ -40,7 +40,7 @@ def create_df(dir, df_1):
     date_table = dateparser.parse(date_table_preformat).strftime('%Y-%m-%d')
 
     station = pdf_text[1].split(':')[-1][1:].replace(' ','_')
-    location = pdf_text[2].split(':')[-1][1:].replace(' ','_')
+    location = pdf_text[2].split(':')[-1][1:].replace(' ','_').replace(',', '')
     subdistrict = pdf_text[3].split(':')[-1][1:].replace(' ','_')
     district = pdf_text[4].split(':')[-1][1:].replace(' ','_')
     province = pdf_text[5].split(':')[-1][1:].replace(' ','_')
@@ -94,26 +94,9 @@ def main():
         rename_pdf(temp_dir, date, province, station)
         return("{} downloaded and converted".format(station))
 
-class Logger(object):
-    def __init__(self):
-        self.terminal = sys.stdout
-        self.log = open("logfile.log", "a")
-
-    def write(self, message):
-        self.terminal.write(message)
-        self.log.write(message)
-
-    def flush(self):
-        #this flush method is needed for python 3 compatibility.
-        #this handles the flush command by doing nothing.
-        #you might want to specify some extra behavior here.
-        pass
-
-sys.stdout = Logger()
-
 create_directory("pdf","csv")
 
-print("\n"+str(datetime.datetime.now()))
+os.system('echo "\n$(date)" >> log.txt')
 
 for url_txt in os.listdir("url"):
     with open("url/{}".format(url_txt)) as f:
@@ -124,8 +107,12 @@ for url_txt in os.listdir("url"):
     count = 0
     for url in url_list:
         if count == 0:
+            msg = "Processing files for {}".format(url_txt)
             print("Processing files for {}".format(url_txt))
+            os.system('echo {} >> log.txt'.format(msg))
         message = main()
         count += 1
-        print("{}/{} {}".format(count,len(url_list), message))
+        msg = "{}/{} {}".format(count,len(url_list), message)
+        print(msg)
+        os.system('echo {} >> log.txt'.format(msg))
         time.sleep(3)
